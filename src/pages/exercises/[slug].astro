@@ -16,21 +16,23 @@ const { Content } = await entry.render();
 const allExercises = await getCollection("exercises");
 ---
 
-<div style="display: flex;">
-  <div style="padding-right: 3rem;">
-    <h2>All Games</h2>
+<div class="flex p-2">
+  <div class="p-2">
+    <h2 class="text-xl pb-4">All Games</h2>
     <ul>
       {
         allExercises.map((exercise) => (
           <li style="display: block; padding-bottom: 0.5rem;">
-            <a href={"/exercises/" + exercise.slug}>{exercise.data.name}</a>
+            <a class="text-blue-600 visited:text-purple-600" href={"/exercises/" + exercise.slug}>
+              {exercise.data.name}
+            </a>
           </li>
         ))
       }
     </ul>
   </div>
 
-  <div>
+  <div class="p-2 prose">
     <h1>{entry.data.title}</h1>
     <a href={entry.data.editURL}>Edit on Google Docs</a>
     <Content />
