@@ -12,11 +12,13 @@ const allExercises = await getCollection("exercises");
     <title>Musical Improv Exercises</title>
   </head>
   <body>
-    <h2>Musical Improv Exercises</h2>
+    <h2 class="text-xl pb-4">
+      <a class="text-blue-600 visited:text-purple-600 underline" href="/"> All Games </a>
+    </h2>
     <ul>
       {
         allExercises.map((exercise) => (
-          <li>
+          <li class="py-0.5">
             <a href={"/exercises/" + exercise.slug}>{exercise.data.name}</a>
           </li>
         ))
