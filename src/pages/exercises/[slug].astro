@@ -8,11 +8,31 @@ export async function getStaticPaths() {
     props: { entry },
   }));
 }
+
 // 2. For your template, you can get the entry directly from the prop
 const { entry } = Astro.props;
 const { Content } = await entry.render();
+
+const allExercises = await getCollection("exercises");
 ---
 
-<h1>{entry.data.title}</h1>
-<a href="#" ">Edit on Google Docs</a>
-<Content />
+<div style="display: flex;">
+  <div style="padding-right: 3rem;">
+    <h2>All Games</h2>
+    <ul>
+      {
+        allExercises.map((exercise) => (
+          <li style="display: block; padding-bottom: 0.5rem;">
+            <a href={"/exercises/" + exercise.slug}>{exercise.data.name}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+
+  <div>
+    <h1>{entry.data.title}</h1>
+    <a href={entry.data.editURL}>Edit on Google Docs</a>
+    <Content />
+  </div>
+</div>
