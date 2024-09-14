@@ -1,3 +1,8 @@
+---
+name: Musical Zip Zap Zop
+editURL: https://docs.google.com/document/d/1sXkdiPa6Y1gCE5_2EJf6IUllFpwdh4tFnqyPuSF4Bfg/edit
+---
+
 Musical Zip Zap Zop  
 Objective: Develop spontaneous musical creativity and group cohesion by evolving spoken words into melodies and rhythms, with a focus on passing sounds and motions to different players.
 

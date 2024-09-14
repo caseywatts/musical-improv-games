@@ -1,3 +1,8 @@
+---
+name: I Am A Tree
+editURL: https://docs.google.com/document/d/1Yi7OTHGxWVihzlE4Tq5zimhQdS1WhjhOYgxH1hMlins/edit
+---
+
 ### I AM A TREE, KEEP TREE VERSION: 5-8 minutes
 
 * Instructions:   
@@ -37,4 +42,3 @@
       * Player 2 joins acting like a different character: “As your student I agree”  
       * Player 3  acting like a third kind of character: “As the principal, I can’t say I care”  
       * First person says “Keep the \[choose X or Y\]” and everyone else leaves.
-

@@ -1,3 +1,8 @@
+---
+name: The Midnight Society
+editURL: https://docs.google.com/document/d/1eoNDgByOcDoloplDhMEwuTo28PDCfvvvThzWmb7Zf0E/edit
+---
+
 The Midnight Society Opening:
 
 Objective: To create an engaging and collaborative spooky story through group participation and scenic moments, with an optional musical variant.
@@ -36,4 +41,4 @@ A musical number follows with a chorus like “Cursed Doll” or “Doll’s Cur
 
 Round 3: A final story is about a mysterious, disappearing bridge. The scene shows people trying to cross the bridge only for it to vanish. 
 
-The ensemble sings a chorus like “Vanishing Bridge” or “Bridge of Shadows.”  
+The ensemble sings a chorus like “Vanishing Bridge” or “Bridge of Shadows.”

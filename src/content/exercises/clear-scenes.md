@@ -1,3 +1,8 @@
+---
+name: CLEAR Scenes
+editURL: https://docs.google.com/document/d/1geoQuVoDd1u7ORbu7K5J89PwECdSluUwAE1G2PBMZ-A/edit
+---
+
 ### CLEAR Robot Scenes \- 30-35 minutes
 
 * Instructions  

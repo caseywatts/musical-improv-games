@@ -1,3 +1,8 @@
+---
+name: Irish Drinking Song
+editURL: https://docs.google.com/document/d/1HOe5qE3tylr3xS7s7G2TtWGqmAM8-15kDXHHiq5nCE8/edit
+---
+
 ### Irish Drinking Song
 
 * Objective: Make a rhyming and rotating Irish drinking song  

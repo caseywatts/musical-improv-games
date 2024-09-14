@@ -1,3 +1,8 @@
+---
+name: Three-Headed Broadway Star
+editURL: https://docs.google.com/document/d/1GHXL-Nk_q1_IrYeS54y8P0x6yaW8muIOD_aqovMhMfQ/edit
+---
+
 ### Three-Headed Broadway Star
 
 * Objective: Use groupmind to sing a song to an audience member one word at a time  

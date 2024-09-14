@@ -1,3 +1,8 @@
+---
+name: Sing It
+editURL: https://docs.google.com/document/d/1VIXdr-MjyZD2YAm0DzhzXEwD7MMka0QcB65e5O19EZQ/edit
+---
+
 ### Sing It\! \- 15-20 minutes
 
 * First, show an example. Then, have students go on stage two at a time:  
@@ -9,4 +14,4 @@
 * Everyone repeats the chorus (structure \= CC).  
 * Challenge: If you’re in the scene, try to signal a “button line” that would make a good chorus
 
-### 
+###

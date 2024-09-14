@@ -1,3 +1,8 @@
+---
+name: Ba-Da-Da
+editURL: https://docs.google.com/document/d/1WCp9avEynYxNh1DezwzE1WZqfXia7tlvb4fevUXEwKo/edit
+---
+
 ### Ba-Da-Da (Rhythm) \- 8-10 minutes
 
 * Instructions:   
@@ -29,4 +34,3 @@
     * Better to have right timing that to have a clever word  
   * Purpose:   
     * It is important to encourage players to pay attention to the rhythm and timing and to try to stick within their window.
-

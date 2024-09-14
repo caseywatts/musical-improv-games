@@ -1,3 +1,8 @@
+---
+name: Sharey Tale Format
+editURL: https://docs.google.com/document/d/1M-6oyF3iPY6QdvalniZ8Vm7sfuVjd6qsW-u6ZNVFG0M/edit
+---
+
 Sharey Tale Format
 
 It’s the Share \+ Fairy Tale. There is a Sharold, Share \+ Harold with all group scenes. This is a version for the Fairy Tale format.

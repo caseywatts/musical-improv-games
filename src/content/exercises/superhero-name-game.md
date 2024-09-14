@@ -1,3 +1,8 @@
+---
+name: Superhero Name Game
+editURL: https://docs.google.com/document/d/1ybZrkfIFcGPB2q4AIEiOlWsFGQ5fFaroAjWVK8hyI2Q/edit
+---
+
 ## SUPERHERO NAME GAME: 5 MINS
 
 * **Instructions:**  
@@ -28,4 +33,4 @@
     * Facilitators can offer accommodations for participants who might be uncomfortable/unable to shake out limbs   
     * (participate while seated, snap fingers/tap toes, wiggle shoulders/wiggle knees, etc.)
 
-## 
+##

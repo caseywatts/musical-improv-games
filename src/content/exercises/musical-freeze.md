@@ -1,3 +1,8 @@
+---
+name: Musical Freeze
+editURL: https://docs.google.com/document/d/1QVg2ITy6dH15s8O4gG4aQO6EZ4SGwbJVWyA_xEYv3YI/edit
+---
+
 ### Musical Freeze
 
 * Objectives:  

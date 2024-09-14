@@ -17,7 +17,7 @@ const allExercises = await getCollection("exercises");
       {
         allExercises.map((exercise) => (
           <li>
-            <a href={"/exercises/" + exercise.slug}>{exercise.slug}</a>
+            <a href={"/exercises/" + exercise.slug}>{exercise.data.name}</a>
           </li>
         ))
       }

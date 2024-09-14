@@ -1,3 +1,8 @@
+---
+name: Half Life Musical
+editURL: https://docs.google.com/document/d/1pK03F9pWcqTy27mc3xLP8PFUHd1mCVp7bkjlEJHyXZI/edit
+---
+
 ### Half Life Musical
 
 * Objective: Repeatedly perform a musical that is half as long as the last performance  

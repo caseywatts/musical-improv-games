@@ -1,3 +1,8 @@
+---
+name: Documentary Musical
+editURL: https://docs.google.com/document/d/1jCiBmcnQUyY_G0DioEOUdaOHQVsWioe-vppullN59Wk/edit
+---
+
 Documentary Musical
 
 Objective: Create a musical documentary-style interview with two players based on a suggestion, featuring a song in any format.

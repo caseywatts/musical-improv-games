@@ -1,3 +1,8 @@
+---
+name: Tom's Diner
+editURL: https://docs.google.com/document/d/1g3KyEfua5sdopcY3k-4h50i1WXHkXgxfOIQDBl-cv_0/edit
+---
+
 ### Tom’s Diner 8 \- 10 minutes
 
 * Introductions:  

@@ -1,3 +1,8 @@
+---
+name: Sevens
+editURL: https://docs.google.com/document/d/1JWhhEI8wnHgkySlgJEXN24mELEnAPkqUzUC93JwE6jo/edit
+---
+
 # 7s
 
 ## Game Notes

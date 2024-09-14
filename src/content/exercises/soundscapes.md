@@ -1,3 +1,8 @@
+---
+name: Soundscapes
+editURL: https://docs.google.com/document/d/17Fs-vcR_lJSDt1kHtJxOiUIVv2xRAKeJQFdVCbTehdk/edit
+---
+
 ### Soundscapes
 
 * Instructions:   
@@ -12,4 +17,3 @@
     * For the second round, some players will be allowed to use words \- organically.  
     * Repeat the same process as before, with players building on each other's sounds and incorporating words where appropriate.  
     * Encourage players to listen to each other and work together to create a musical soundscape that is interesting and enjoyable to listen to.
-

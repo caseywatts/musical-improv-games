@@ -1,3 +1,8 @@
+---
+name: Blank without the Blank
+editURL: https://docs.google.com/document/d/1Vh08TWHve_uxcPIajuK2ULwi5z7r8vxBdw63uJk6JfQ/edit
+---
+
 It’s like the 'blank' without the 'blank'
 
 Objective:  
@@ -33,4 +38,3 @@ Encourage players to stay in rhythm and keep the rhymes flowing.
 
 Purpose:  
 This game is a fun way to practice quick thinking, rhyming, and rhythm. It also helps participants stay mentally agile and engaged with their fellow players.
-

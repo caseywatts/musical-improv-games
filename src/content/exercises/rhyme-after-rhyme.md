@@ -1,3 +1,8 @@
+---
+name: Rhyme After Rhyme
+editURL: https://docs.google.com/document/d/1j_Zrdh5ysNmkX2vLRChblG1NtfF7pToBHFmljlv1XlU/edit
+---
+
 ### Rhyme After Rhyme
 
 * Facilitators will demonstrate back and forth the following:

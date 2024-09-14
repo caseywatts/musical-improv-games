@@ -7,15 +7,29 @@ fetch(googleSheetsURL).then((response) => {
   response.text().then((exercisesCSV) => {
     const exercises = Papa.parse(exercisesCSV, { header: true });
     exercises.data.forEach((exercise) => {
-      downloadMarkdown(exercise["Slug"], exercise["Markdown URL"]);
+      downloadMarkdown(exercise);
     });
   });
 });
 
-function downloadMarkdown(slug, url) {
-  fetch(url).then((response) => {
+function downloadMarkdown(exercise) {
+  const slug = exercise["Slug"];
+  const name = exercise["Name"];
+  const editURL = exercise["Edit URL"];
+  const mdURL = exercise["Markdown URL"];
+
+  fetch(mdURL).then((response) => {
     response.text().then((docMarkdown) => {
-      fs.writeFileSync(`src/content/exercises/${slug}.md`, docMarkdown);
+      const mdFileContent = `
+---
+name: ${name}
+editURL: ${editURL}
+---
+
+${docMarkdown}
+      `.trim();
+
+      fs.writeFileSync(`src/content/exercises/${slug}.md`, mdFileContent);
     });
   });
 }

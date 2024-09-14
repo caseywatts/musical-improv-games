@@ -1,3 +1,8 @@
+---
+name: Yes Let's!
+editURL: https://docs.google.com/document/d/1tfbQpdHPSMn3ulncuUKVgu2DP_KQQY6lKFGJJPIyug8/edit
+---
+
 ### Yes, Let’s\! \- 5-8 Minutes
 
 * Instructions:   
@@ -17,5 +22,4 @@
     * If an activity seems difficult to do or dangerous, side coach:  
       * “Do a hand stand”  
       *  “How can we simulate that without touching or actually doing the hand stand? Pretend we’re a character who is doing the thing we couldn’t do  
-      * 
-
+      *

@@ -1,3 +1,8 @@
+---
+name: Build A Band + Big Solos
+editURL: https://docs.google.com/document/d/1OA2K6cNAruRDURnQOgmg6DTMTd_ZGNzk2YyKgEvmqOY/edit
+---
+
 ### Build a Band
 
 ### Objective: To create a rhythmic symphony together using complementary sounds and movements.

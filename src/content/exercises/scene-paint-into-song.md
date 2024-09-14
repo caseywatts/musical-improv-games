@@ -1,3 +1,8 @@
+---
+name: Scene Paint into Song
+editURL: https://docs.google.com/document/d/1IrMPwsMaudi62hwep3sDgey11uZXJ8C2Wn9d-_cillc/edit
+---
+
 Scene Paint into Song
 
 Objective: Create a scene by describing three distinct "spaces" based on a suggestion, transitioning into a song or series of songs inspired by the scene painting.

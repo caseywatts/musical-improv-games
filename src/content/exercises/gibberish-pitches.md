@@ -1,3 +1,8 @@
+---
+name: Gibberish Pitches
+editURL: https://docs.google.com/document/d/1Vf0_thLMdIoVHYlZMjqpJr2KAqWiKgS_HRrhw6f9dKI/edit
+---
+
 ### Exercise: Gibberish Pitches Part 1 \- 5-8 minutes
 
 * Instructions:   
@@ -54,4 +59,4 @@
   * FOLLOW THE FEELING: Sometimes the best way to create a melody is to simply follow the feeling of the music and let it guide you. Tap into your intuition and allow their melodies to evolve naturally in response to the piano accompaniment and the group energy.  
   * TAKE RISKS: Finally, this is an improv game, and there are no wrong answers\! Take risks and try new things when creating melodies, and embrace the unexpected twists and turns that can arise as a result.
 
-## 
+##
