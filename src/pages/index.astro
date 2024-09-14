@@ -1,5 +1,6 @@
 ---
-
+import { getCollection } from "astro:content";
+const allExercises = await getCollection("exercises");
 ---
 
 <html lang="en">
@@ -11,7 +12,15 @@
     <title>Musical Improv Exercises</title>
   </head>
   <body>
-    <h1>Yay Musical Improv!</h1>
-    <a href="/exercises">Musical Improv Exercises</a>
+    <h2>Musical Improv Exercises</h2>
+    <ul>
+      {
+        allExercises.map((exercise) => (
+          <li>
+            <a href={"/exercises/" + exercise.slug}>{exercise.slug}</a>
+          </li>
+        ))
+      }
+    </ul>
   </body>
 </html>
