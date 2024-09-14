@@ -1,10 +1,16 @@
 ---
 import { getCollection } from "astro:content";
-
-const exercises = await getCollection("exercises");
-import { Content as ExampleExercise } from "../../content/exercises/example.md";
+const allExercises = await getCollection("exercises");
 ---
 
-<ul class="block my-10 space-y-10 mb-10">
-  {exercises.map((exercise) => <ExampleExercise />)}
+<h2>All Exercises</h2>
+
+<ul>
+  {
+    allExercises.map((exercise) => (
+      <li>
+        <a href={"/exercises/" + exercise.slug}>{exercise.slug}</a>
+      </li>
+    ))
+  }
 </ul>
