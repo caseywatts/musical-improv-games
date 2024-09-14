@@ -1,4 +1,8 @@
 ---
+import SideBar from "../../components/SideBar.astro";
+import GamesList from "../../components/GamesList.astro";
+import PageLayout from "../../components/PageLayout.astro";
+
 import { getCollection } from "astro:content";
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -16,27 +20,15 @@ const { Content } = await entry.render();
 const allExercises = await getCollection("exercises");
 ---
 
-<div class="flex p-2">
-  <div class="p-2">
-    <h2 class="text-xl pb-4">
-      <a class="text-blue-600 visited:text-purple-600 underline" href="/"> All Games </a>
-    </h2>
-    <ul>
-      {
-        allExercises.map((exercise) => (
-          <li class="py-0.5">
-            <a class="text-blue-600 visited:text-purple-600" href={"/exercises/" + exercise.slug}>
-              {exercise.data.name}
-            </a>
-          </li>
-        ))
-      }
-    </ul>
+<PageLayout>
+  <SideBar />
+  <div class="flex align-center content-center justify-center p-2">
+    <div class="prose p-2 bg-white p-4 min-h-screen">
+      <div class="flex space-between w-full">
+        <h1 class="flex-1">{entry.data.name}</h1>
+        <a class="text-right" href={entry.data.editURL}>Edit on Google Docs</a>
+      </div>
+      <Content />
+    </div>
   </div>
-
-  <div class="p-2 prose">
-    <h1>{entry.data.title}</h1>
-    <a href={entry.data.editURL}>Edit on Google Docs</a>
-    <Content />
-  </div>
-</div>
+</PageLayout>

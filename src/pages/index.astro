@@ -1,28 +1,8 @@
 ---
-import { getCollection } from "astro:content";
-const allExercises = await getCollection("exercises");
+import PageLayout from "../components/PageLayout.astro";
+import GamesList from "../components/GamesList.astro";
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Musical Improv Exercises</title>
-  </head>
-  <body>
-    <h2 class="text-xl pb-4">
-      <a class="text-blue-600 visited:text-purple-600 underline" href="/"> All Games </a>
-    </h2>
-    <ul>
-      {
-        allExercises.map((exercise) => (
-          <li class="py-0.5">
-            <a href={"/exercises/" + exercise.slug}>{exercise.data.name}</a>
-          </li>
-        ))
-      }
-    </ul>
-  </body>
-</html>
+<PageLayout title="All Exercises | Musical Improv Games">
+  <GamesList />
+</PageLayout>

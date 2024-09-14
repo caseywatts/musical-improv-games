@@ -1,0 +1,16 @@
+---
+import { getCollection } from "astro:content";
+const allExercises = await getCollection("exercises");
+---
+
+<ul>
+  {
+    allExercises.map((exercise) => (
+      <li class="py-0.5">
+        <a class="text-blue-600 hover:text-violet-600" href={"/exercises/" + exercise.slug}>
+          {exercise.data.name}
+        </a>
+      </li>
+    ))
+  }
+</ul>
