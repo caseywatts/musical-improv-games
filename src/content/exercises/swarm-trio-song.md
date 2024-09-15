@@ -1,6 +1,18 @@
 ---
 name: Swarm Trio Song
 editURL: https://docs.google.com/document/d/1h3kQKhFNEPY0f4rS_yISWxT5l7hll-H5TB-w33G91Dc/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 

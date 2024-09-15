@@ -1,6 +1,18 @@
 ---
 name: Rhyme After Rhyme
 editURL: https://docs.google.com/document/d/1j_Zrdh5ysNmkX2vLRChblG1NtfF7pToBHFmljlv1XlU/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 ### Rhyme After Rhyme

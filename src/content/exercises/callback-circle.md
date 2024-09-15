@@ -1,6 +1,18 @@
 ---
 name: Callback Circle
 editURL: https://docs.google.com/document/d/1zUTFLcPU8hreqo5M57r8Hxj4AqbAejGwWP15XOQHE0s/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 ### Callback Circle: 5 Minutes

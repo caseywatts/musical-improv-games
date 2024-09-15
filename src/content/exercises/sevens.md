@@ -1,6 +1,18 @@
 ---
 name: Sevens
 editURL: https://docs.google.com/document/d/1JWhhEI8wnHgkySlgJEXN24mELEnAPkqUzUC93JwE6jo/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 # 7s

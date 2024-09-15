@@ -1,6 +1,18 @@
 ---
 name: Documentary Musical
 editURL: https://docs.google.com/document/d/1jCiBmcnQUyY_G0DioEOUdaOHQVsWioe-vppullN59Wk/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 Documentary Musical

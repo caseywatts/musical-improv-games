@@ -1,6 +1,18 @@
 ---
 name: Irish Drinking Song
 editURL: https://docs.google.com/document/d/1HOe5qE3tylr3xS7s7G2TtWGqmAM8-15kDXHHiq5nCE8/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 ### Irish Drinking Song

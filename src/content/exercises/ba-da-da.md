@@ -1,6 +1,18 @@
 ---
 name: Ba-Da-Da
 editURL: https://docs.google.com/document/d/1WCp9avEynYxNh1DezwzE1WZqfXia7tlvb4fevUXEwKo/edit
+difficulty: 1 - easy
+summary: rhythm
+sayingWords: primary
+newIdeas: yes
+yesAnd: yes
+rhyme: no
+characters: no
+plot: no
+meter: primary
+pitch: no
+harmony: no
+articulation: no
 ---
 
 ### Ba-Da-Da (Rhythm) \- 8-10 minutes

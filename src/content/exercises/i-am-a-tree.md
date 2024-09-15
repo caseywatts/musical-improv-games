@@ -1,6 +1,18 @@
 ---
 name: I Am A Tree
 editURL: https://docs.google.com/document/d/1Yi7OTHGxWVihzlE4Tq5zimhQdS1WhjhOYgxH1hMlins/edit
+difficulty: 1 - easy
+summary: story
+sayingWords: yes
+newIdeas: yes
+yesAnd: yes
+rhyme: no
+characters: primary
+plot: no
+meter: no
+pitch: no
+harmony: no
+articulation: no
 ---
 
 ### I AM A TREE, KEEP TREE VERSION: 5-8 minutes

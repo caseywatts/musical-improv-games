@@ -1,6 +1,18 @@
 ---
 name: Scene Paint into Song
 editURL: https://docs.google.com/document/d/1IrMPwsMaudi62hwep3sDgey11uZXJ8C2Wn9d-_cillc/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 Scene Paint into Song

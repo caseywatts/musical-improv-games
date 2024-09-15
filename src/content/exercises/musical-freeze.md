@@ -1,6 +1,18 @@
 ---
 name: Musical Freeze
 editURL: https://docs.google.com/document/d/1QVg2ITy6dH15s8O4gG4aQO6EZ4SGwbJVWyA_xEYv3YI/edit
+difficulty: 3 - hard
+summary: 
+sayingWords: yes
+newIdeas: primary
+yesAnd: yes
+rhyme: no
+characters: yes
+plot: yes
+meter: yes
+pitch: primary
+harmony: no
+articulation: no
 ---
 
 ### Musical Freeze

@@ -1,6 +1,18 @@
 ---
 name: Gibberish Pitches
 editURL: https://docs.google.com/document/d/1Vf0_thLMdIoVHYlZMjqpJr2KAqWiKgS_HRrhw6f9dKI/edit
+difficulty: 2 - medium
+summary: pitch
+sayingWords: no
+newIdeas: no
+yesAnd: no
+rhyme: no
+characters: no
+plot: no
+meter: no
+pitch: primary
+harmony: no
+articulation: no
 ---
 
 ### Exercise: Gibberish Pitches Part 1 \- 5-8 minutes

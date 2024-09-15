@@ -1,6 +1,18 @@
 ---
 name: The Midnight Society
 editURL: https://docs.google.com/document/d/1eoNDgByOcDoloplDhMEwuTo28PDCfvvvThzWmb7Zf0E/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 The Midnight Society Opening:

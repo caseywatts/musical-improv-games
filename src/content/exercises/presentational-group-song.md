@@ -1,6 +1,18 @@
 ---
 name: Presentational Group Song
 editURL: https://docs.google.com/document/d/1gnf9jH15XbqtfNDwaKoSnJhyxubMHZ_e5hAu7bjdpjo/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 ### Presentation Group Game

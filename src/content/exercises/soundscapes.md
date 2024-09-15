@@ -1,6 +1,18 @@
 ---
 name: Soundscapes
 editURL: https://docs.google.com/document/d/17Fs-vcR_lJSDt1kHtJxOiUIVv2xRAKeJQFdVCbTehdk/edit
+difficulty: 1 - easy
+summary: harmony
+sayingWords: no
+newIdeas: no
+yesAnd: no
+rhyme: no
+characters: no
+plot: no
+meter: no
+pitch: yes
+harmony: primary
+articulation: no
 ---
 
 ### Soundscapes

@@ -1,6 +1,18 @@
 ---
 name: Blank without the Blank
 editURL: https://docs.google.com/document/d/1Vh08TWHve_uxcPIajuK2ULwi5z7r8vxBdw63uJk6JfQ/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 It’s like the 'blank' without the 'blank'

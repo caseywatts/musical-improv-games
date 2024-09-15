@@ -1,6 +1,18 @@
 ---
 name: Half Life Musical
 editURL: https://docs.google.com/document/d/1pK03F9pWcqTy27mc3xLP8PFUHd1mCVp7bkjlEJHyXZI/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 ### Half Life Musical

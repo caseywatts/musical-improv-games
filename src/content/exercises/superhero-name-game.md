@@ -1,6 +1,18 @@
 ---
 name: Superhero Name Game
 editURL: https://docs.google.com/document/d/1ybZrkfIFcGPB2q4AIEiOlWsFGQ5fFaroAjWVK8hyI2Q/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 ## SUPERHERO NAME GAME: 5 MINS

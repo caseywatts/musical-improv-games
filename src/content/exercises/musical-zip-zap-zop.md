@@ -1,6 +1,18 @@
 ---
 name: Musical Zip Zap Zop
 editURL: https://docs.google.com/document/d/1sXkdiPa6Y1gCE5_2EJf6IUllFpwdh4tFnqyPuSF4Bfg/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 Musical Zip Zap Zop  

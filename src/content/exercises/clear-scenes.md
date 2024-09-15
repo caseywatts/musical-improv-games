@@ -1,6 +1,18 @@
 ---
 name: CLEAR Scenes
 editURL: https://docs.google.com/document/d/1geoQuVoDd1u7ORbu7K5J89PwECdSluUwAE1G2PBMZ-A/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 ### CLEAR Robot Scenes \- 30-35 minutes

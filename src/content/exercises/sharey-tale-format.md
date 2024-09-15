@@ -1,6 +1,18 @@
 ---
 name: Sharey Tale Format
 editURL: https://docs.google.com/document/d/1M-6oyF3iPY6QdvalniZ8Vm7sfuVjd6qsW-u6ZNVFG0M/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 Sharey Tale Format

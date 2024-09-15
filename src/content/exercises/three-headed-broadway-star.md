@@ -1,6 +1,18 @@
 ---
 name: Three-Headed Broadway Star
 editURL: https://docs.google.com/document/d/1GHXL-Nk_q1_IrYeS54y8P0x6yaW8muIOD_aqovMhMfQ/edit
+difficulty: 
+summary: 
+sayingWords: 
+newIdeas: 
+yesAnd: 
+rhyme: 
+characters: 
+plot: 
+meter: 
+pitch: 
+harmony: 
+articulation: 
 ---
 
 ### Three-Headed Broadway Star

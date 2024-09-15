@@ -1,6 +1,18 @@
 ---
 name: DA DO RON RON
 editURL: https://docs.google.com/document/d/1O5lfndvLfNqF2B_ChKYhhCnPrB9r8MTcfUCaqrhI58k/edit
+difficulty: 3 - hard
+summary: rhythm
+sayingWords: yes
+newIdeas: yes
+yesAnd: no
+rhyme: yes
+characters: no
+plot: no
+meter: primary
+pitch: copied
+harmony: optional
+articulation: no
 ---
 
 ### DA DO RON RON

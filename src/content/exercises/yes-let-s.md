@@ -1,6 +1,18 @@
 ---
 name: Yes Let's!
 editURL: https://docs.google.com/document/d/1tfbQpdHPSMn3ulncuUKVgu2DP_KQQY6lKFGJJPIyug8/edit
+difficulty: 1 - easy
+summary: 
+sayingWords: yes
+newIdeas: yes
+yesAnd: primary
+rhyme: no
+characters: no
+plot: no
+meter: no
+pitch: no
+harmony: no
+articulation: no
 ---
 
 ### Yes, Let’s\! \- 5-8 Minutes

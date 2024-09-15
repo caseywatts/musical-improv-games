@@ -1,6 +1,18 @@
 ---
 name: Beastie Rap
 editURL: https://docs.google.com/document/d/15syNdnZ95_ikNRBXEFtxhw3KRkj7zlNLLDi-zF8u_Xg/edit
+difficulty: 3 - hard
+summary: "rhyme & time"
+sayingWords: yes
+newIdeas: yes
+yesAnd: no
+rhyme: yes
+characters: no
+plot: no
+meter: primary
+pitch: copied
+harmony: no
+articulation: no
 ---
 
 ### BEASTIE RAP CIRCLE

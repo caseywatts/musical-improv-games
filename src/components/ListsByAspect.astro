@@ -1,0 +1,16 @@
+---
+import { getCollection } from "astro:content";
+import ListForAspect from "./ListForAspect.astro";
+const allExercises = await getCollection("exercises");
+---
+
+<ListForAspect aspect="sayingWords" aspectName="Saying Words" />
+<ListForAspect aspect="newIdeas" aspectName="New Ideas" />
+<ListForAspect aspect="yesAnd" aspectName="Yes, And" />
+<ListForAspect aspect="rhyme" aspectName="Rhyme" />
+<ListForAspect aspect="characters" aspectName="Characters" />
+<ListForAspect aspect="plot" aspectName="Plot" />
+<ListForAspect aspect="meter" aspectName="Meter" />
+<ListForAspect aspect="pitch" aspectName="Pitch" />
+<ListForAspect aspect="harmony" aspectName="Harmony" />
+<ListForAspect aspect="articulation" aspectName="Articulation" />

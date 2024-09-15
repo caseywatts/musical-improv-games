@@ -1,0 +1,35 @@
+---
+import { getCollection } from "astro:content";
+const allExercises = await getCollection("exercises");
+const { aspect, aspectName } = Astro.props;
+const aspectPrimary = allExercises.filter((exercise) => exercise.data[aspect] === "primary");
+const aspectSecondary = allExercises.filter((exercise) => exercise.data[aspect] === "yes");
+---
+
+<div class="bg-violet-200 odd:bg-blue-200 p-2">
+  <h3 class="text-3xl py-2">{aspectName}</h3>
+  <h4 class="text-xl py-2">Primary Focus</h4>
+  <ul>
+    {
+      aspectPrimary.map((exercise) => (
+        <li class="py-0.5">
+          <a class="text-blue-600 hover:text-violet-600" href={"/exercises/" + exercise.slug}>
+            {exercise.data.name}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+  <h4 class="text-xl py-2">Secondary Focus</h4>
+  <ul>
+    {
+      aspectSecondary.map((exercise) => (
+        <li class="py-0.5">
+          <a class="text-blue-600 hover:text-violet-600" href={"/exercises/" + exercise.slug}>
+            {exercise.data.name}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</div>

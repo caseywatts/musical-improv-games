@@ -1,6 +1,18 @@
 ---
 name: Build A Band + Big Solos
 editURL: https://docs.google.com/document/d/1OA2K6cNAruRDURnQOgmg6DTMTd_ZGNzk2YyKgEvmqOY/edit
+difficulty: 1 - easy
+summary: harmony
+sayingWords: no
+newIdeas: no
+yesAnd: no
+rhyme: no
+characters: no
+plot: no
+meter: yes*
+pitch: yes
+harmony: primary
+articulation: no
 ---
 
 ### Build a Band

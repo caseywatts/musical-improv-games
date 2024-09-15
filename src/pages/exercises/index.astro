@@ -1,16 +1,8 @@
 ---
-import { getCollection } from "astro:content";
-const allExercises = await getCollection("exercises");
+import ListsByAspect from "../../components/ListsByAspect.astro";
+import GamesList from "../../components/GamesList.astro";
 ---
 
-<h2>All Exercises</h2>
+<GamesList />
 
-<ul>
-  {
-    allExercises.map((exercise) => (
-      <li>
-        <a href={"/exercises/" + exercise.slug}>{exercise.slug}</a>
-      </li>
-    ))
-  }
-</ul>
+<ListsByAspect />

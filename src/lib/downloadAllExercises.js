@@ -14,16 +14,26 @@ fetch(googleSheetsURL).then((response) => {
 
 function downloadMarkdown(exercise) {
   const slug = exercise["Slug"];
-  const name = exercise["Name"];
-  const editURL = exercise["Edit URL"];
   const mdURL = exercise["Markdown URL"];
 
   fetch(mdURL).then((response) => {
     response.text().then((docMarkdown) => {
       const mdFileContent = `
 ---
-name: ${name}
-editURL: ${editURL}
+name: ${exercise["Name"]}
+editURL: ${exercise["Edit URL"]}
+difficulty: ${exercise["Difficulty"]}
+summary: ${exercise["Summary"]}
+sayingWords: ${exercise["Saying Words"]}
+newIdeas: ${exercise["New Ideas"]}
+yesAnd: ${exercise["Yes, And"]}
+rhyme: ${exercise["Rhyme"]}
+characters: ${exercise["Characters"]}
+plot: ${exercise["Plot"]}
+meter: ${exercise["Meter"]}
+pitch: ${exercise["Pitch"]}
+harmony: ${exercise["Harmony"]}
+articulation: ${exercise["Articulation"]}
 ---
 
 ${docMarkdown}
