@@ -11,7 +11,7 @@ const aspectSecondary = allExercises.filter((exercise) => exercise.data[aspect] 
   <ul>
     {
       aspectPrimary.map((exercise) => (
-        <li class="p-2">
+        <li class="px-2 py-0.5">
           <a class="text-blue-600 hover:text-violet-600" href={"/exercises/" + exercise.slug}>
             ⭐️ {exercise.data.name}
           </a>
@@ -20,7 +20,7 @@ const aspectSecondary = allExercises.filter((exercise) => exercise.data[aspect] 
     }
     {
       aspectSecondary.map((exercise) => (
-        <li class="p-2">
+        <li class="px-2 py-0.5">
           <a class="text-blue-600 hover:text-violet-600" href={"/exercises/" + exercise.slug}>
             {exercise.data.name}
           </a>
