@@ -6,25 +6,21 @@ const aspectPrimary = allExercises.filter((exercise) => exercise.data[aspect] ==
 const aspectSecondary = allExercises.filter((exercise) => exercise.data[aspect] === "yes");
 ---
 
-<div class="bg-violet-200 odd:bg-blue-200 p-2">
-  <h3 class="text-3xl py-2">{aspectName}</h3>
-  <h4 class="text-xl py-2">Primary Focus</h4>
+<details class="bg-violet-200 odd:bg-blue-200 p-2">
+  <summary class="text-lg p-2 hover:cursor-pointer">{aspectName}</summary>
   <ul>
     {
       aspectPrimary.map((exercise) => (
-        <li class="py-0.5">
+        <li class="p-2">
           <a class="text-blue-600 hover:text-violet-600" href={"/exercises/" + exercise.slug}>
-            {exercise.data.name}
+            ⭐️ {exercise.data.name}
           </a>
         </li>
       ))
     }
-  </ul>
-  <h4 class="text-xl py-2">Secondary Focus</h4>
-  <ul>
     {
       aspectSecondary.map((exercise) => (
-        <li class="py-0.5">
+        <li class="p-2">
           <a class="text-blue-600 hover:text-violet-600" href={"/exercises/" + exercise.slug}>
             {exercise.data.name}
           </a>
@@ -32,4 +28,4 @@ const aspectSecondary = allExercises.filter((exercise) => exercise.data[aspect] 
       ))
     }
   </ul>
-</div>
+</details>
