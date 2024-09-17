@@ -4,14 +4,15 @@ import ListsByAspect from "./ListsByAspect.astro";
 ---
 
 <div class="block sm:flex sm:flex-col">
-  <details class="flex transition-all bg-violet-100">
+  <h1 class="text-center text-2xl p-3 bg-white m-0.5">Musical Improv Games</h1>
+  <details class="flex transition-all bg-violet-100 m-0.5">
     <summary class="text-xl p-3 hover:cursor-pointer bg-violet-200">All Games</summary>
     <div class="p-4">
       <GamesList />
     </div>
   </details>
 
-  <details class="flex transition-all bg-violet-100">
+  <details class="flex transition-all bg-violet-100 m-0.5">
     <summary class="text-xl p-3 hover:cursor-pointer bg-violet-200">Games By Aspect</summary>
     <div class="">
       <ListsByAspect />
