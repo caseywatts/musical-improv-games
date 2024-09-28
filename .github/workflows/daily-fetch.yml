@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --global user.name 'Casey Botts'
           git config --global user.email 'casey.s.watts+bot@gmail.com'
-          git add src/data
+          git add src/content
           git commit -m "update data"
           git push
