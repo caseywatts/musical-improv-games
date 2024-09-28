@@ -15,34 +15,58 @@ harmony: no
 articulation: no
 ---
 
-### Ba-Da-Da (Rhythm) \- 8-10 minutes
+# Ba-Da-Da (Rhythm) \- 8-10 minutes
 
-* Instructions:   
-  * Facilitators will demonstrate back and forth the following:  
-  * Setup group in a circle formation:  
-  * Round 1: No Rhythm Yet  
-    * PLAYER ONE: Say a word or short phrase   
-    * PLAYER TWO:  Responds with whatever word/phrase you think of. It might make sense or it might not.  
-    * EVERYONE: Say the first word, the second word, and then “Ba Da Da.”  
-    * PLAYER TWO then repeats the process by saying a word/phrase to the third player.  
-    * Continue the game until everyone in the circle has had a turn or for a set amount of time.  
-  * Round 2: Rhythm  
-    *  Everyone, slap your thighs and clap in rhythm.  
-  * Round 3: Faster (optional)  
-    * Optional \- Faster the second time around  
-  * EXAMPLE:  
-    * Player 1: "Pizza"  
-      * Player 2: "Delivery"  
-      * Whole circle: "Pizza delivery ba da da."  
-    * Player 2: "Rain" (Note that PLAYER 2 starts)  
-      * Player 3: "Bow"  
-      * Whole circle: "Rainbow ba da da."  
-    * Player 3: "Rock"  
-      * Player 4: "Guitar"  
-      * Whole circle:   
-      * "Rock guitar ba da da."  
-  * NOTE:   
-    * Respond quickly and creatively to keep the game moving.  
-    * Better to have right timing that to have a clever word  
-  * Purpose:   
-    * It is important to encourage players to pay attention to the rhythm and timing and to try to stick within their window.
+## Short Summary / Reminder
+
+\[A\] (clap) \[B\] (clap)  
+\[A\] \[B\] ba-dada
+
+## Example
+
+In a circle:
+
+* Turn 1  
+  * P1 to P2	"Pizza"  
+  * P2 to P1	"Delivery"  
+  * Whole circle	"Pizza delivery ba da da."  
+* Turn 2  
+  * P2 to P3	"Rain"  
+  * P3 to P2	"Bow"  
+  * Whole circle	"Rain-bow ba da da."  
+* Turn 3  
+  * P3 to P4	"Rock"  
+  * P4 to P3	"Guitar"  
+  * Whole circle	"Rock guitar ba da da."  
+* Repeat, until everyone has gone
+
+## Verbal Instructions
+
+* Turn 1  
+  * Point to P1: You’ll say a word or short phrase   
+  * Point to P2: You’ll respond with whatever word/phrase you think of.  
+    * It might make sense or it might not\!  
+  * Gesture to everyone: We’ll all say the first word, the second word, and then “Ba Da Da.”  
+* Turn 2  
+  * Point to P2: Now YOU will come up with a new word, say it to \[point to P3\]  
+  * Point to P3: And you’ll respond with whatever word/phrase you think of.  
+* Turn 3+  
+  * Continue the game until everyone in the circle has had a turn
+
+## Rounds
+
+1. No rhythm (yet)  
+   1. Try to say something quickly, but timing doesn’t matter  
+   2. Probably don’t skip this step \- it makes the next rounds go much smoother\!  
+2. Rhythmically (slow)  
+   1. Clap rhythmically \- hands to thighs, hands together to clap  
+   2. It’s natural to speed up \- try to keep it slow for this round  
+   3. Much more important to stay on beat\! You don’t have to make sense.  
+3. Rhythmically (faster\!)  
+   1. Do it faster\!  
+   2. Go off the rails, be silly\!
+
+## Skills Developed
+
+Round one (no rhythm) \- saying anything  
+Round two (rhythm) \- staying on rhythm

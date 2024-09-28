@@ -1,18 +1,18 @@
 ---
 name: Tag Team Song
 editURL: https://docs.google.com/document/d/11kGbWin9TFPGHh_cGbiJjuA88FF9rpm2fatnqMQhDhQ/edit
-difficulty: 
-summary: 
-sayingWords: 
-newIdeas: 
-yesAnd: 
-rhyme: 
-characters: 
-plot: 
-meter: 
-pitch: 
-harmony: 
-articulation: 
+difficulty: 2 - medium
+summary: collaboration
+sayingWords: yes
+newIdeas: yes
+yesAnd: yes
+rhyme: optional
+characters: no
+plot: optional
+meter: no
+pitch: no
+harmony: no
+articulation: no
 ---
 
 ### Tag Team Song

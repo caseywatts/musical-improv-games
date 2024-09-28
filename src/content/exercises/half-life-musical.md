@@ -1,18 +1,18 @@
 ---
 name: Half Life Musical
 editURL: https://docs.google.com/document/d/1pK03F9pWcqTy27mc3xLP8PFUHd1mCVp7bkjlEJHyXZI/edit
-difficulty: 
-summary: 
-sayingWords: 
-newIdeas: 
-yesAnd: 
-rhyme: 
-characters: 
-plot: 
-meter: 
-pitch: 
-harmony: 
-articulation: 
+difficulty: 2 - medium
+summary: singing scene
+sayingWords: yes
+newIdeas: yes
+yesAnd: yes
+rhyme: no
+characters: yes
+plot: yes
+meter: no
+pitch: no
+harmony: no
+articulation: no
 ---
 
 ### Half Life Musical
