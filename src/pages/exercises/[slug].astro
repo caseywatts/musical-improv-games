@@ -22,7 +22,7 @@ const allExercises = await getCollection("exercises");
 
 <PageLayout>
   <div class="flex-1 p-2">
-    <div class="mx-auto prose p-2 bg-white p-4 min-h-screen">
+    <div class="mx-auto prose bg-white p-4 min-h-screen">
       <div class="sm:flex space-between w-full">
         <h1 class="flex-1">{entry.data.name}</h1>
         <a class="text-right" href={entry.data.editURL} target="_blank">Edit on Google Docs</a>
