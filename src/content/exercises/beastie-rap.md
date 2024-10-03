@@ -15,22 +15,44 @@ harmony: no
 articulation: no
 ---
 
-### BEASTIE RAP CIRCLE
+# BEASTIE RAP CIRCLE
 
-* Instructions:   
-  * Players in a circle  
-  * Player A starts by rapping a simple line with an unstress-stress pattern, like:  
-    * "LIVing at HOME is SUCH a DRAG."	  
-  * Everyone responds with the Beastie Rap pattern:  
-    * "DAH duh-duh-DAH Duh-DAH duh-DAH DAH\!"  
-  * Each player in turn comes up with a simple line that fits the rhythm and rhymes with Player A's original line.   
-  * The Beastie Rap is repeated between each line.  
-  * If a player fails to come up with a line, they say "Aww shit" and the failing player starts a new round with a new word to rhyme with.  
-  * When the players not rapping can predict the rhyme word of the active player coming, they all join in and yell the word together\! At the end of every line  
-* Video reference: [https://www.youtube.com/watch?v=ZUZz4TJXmIQ](https://www.youtube.com/watch?v=ZUZz4TJXmIQ)  
-  * The first half of the video demonstrates this circle version
+### Short Description
 
-### BEASTIE RAP BATTLE
+DAH duh-duh-DAH Duh-DAH duh-DAH DAH\!
+
+### Example
+
+* Player A starts by rapping a simple line with an unstress-stress pattern, like:  
+  * "LIVing at HOME is SUCH a DRAG."	  
+* Everyone responds with the Beastie Rap pattern:  
+  * "DAH duh-duh-DAH Duh-DAH duh-DAH DAH\!"  
+* Player B   
+  * “PLEASE put ALL the MONey in the BAG\!”  
+* Everyone responds with the Beastie Rap pattern:  
+  * "DAH duh-duh-DAH Duh-DAH duh-DAH DAH\!"
+
+### Verbal Instructions
+
+* “Let’s get in a circle”  
+* How it goes  
+  * “Player A starts by rapping a simple line”  
+  * “We all say "DAH duh-duh-DAH Duh-DAH duh-DAH DAH\!"  
+  * “Player B does a line, and their last word RHYMES”  
+  * “We all say "DAH duh-duh-DAH Duh-DAH duh-DAH DAH\!"  
+* Getting it wrong  
+  * “If someone can’t get it \- we’ll all say “aww shit\!\!”  
+  * The person who couldn’t get a rhyme Come up with a new word to rhyme with  
+* If a player fails to come up with a line, they say "Aww shit" and the failing player starts a new round with a new word to rhyme with.  
+* When the players not rapping can predict the rhyme word of the active player coming, they all join in and yell the word together\! At the end of every line
+
+### Example Video
+
+Video reference: [https://www.youtube.com/watch?v=ZUZz4TJXmIQ](https://www.youtube.com/watch?v=ZUZz4TJXmIQ)
+
+* The first half of the video demonstrates this circle version
+
+# BEASTIE RAP BATTLE
 
 #### Beastie Rap: 5 \- 10 Minutes
 

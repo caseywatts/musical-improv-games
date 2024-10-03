@@ -15,14 +15,58 @@ harmony:
 articulation: 
 ---
 
-### Tom’s Diner 8 \- 10 minutes
+# Tom’s Diner \- 8-10 minutes
 
-* Introductions:  
-  * Brainstorming: Facilitators will ask the class to think of something good that’s happened this week/month/year  
-  * Demonstrate: Facilitators introduce the “chorus” melody of Tom’s Diner using the vowel “Doo”  
-  * Together: Ask the entire group to sing the melody with you, and repeat the chorus with them.  
-  * Example Verse: Facilitators will introduce examples of singing to that same “verse melody” with made up words.   
-    * Note that it’s the SAME melody as the chorus.  
-  * Each person shares their own verse. Between each person’s verse, everyone does the chorus together (“Doo”).  
-* Video reference: [https://www.youtube.com/watch?v=j4jtIDaeaWI](https://www.youtube.com/watch?v=j4jtIDaeaWI)  
-  * This is the song that inspired this game
+## Short Summary / Reminder
+
+Do do do-do  
+do do do-do…
+
+I was doing something ear-lier,  
+A-and this is how it wa-aas…
+
+## Example
+
+In a circle:
+
+* Everyone sings this together\!  
+  * do do do-do  
+  * do do do-do  
+  * do do do-do  
+  * do do do-do  
+* Person 1 verse  
+  * Just this morning I woke u-up,  
+  * and I got myself some coffee.  
+  * I was tired, that was normal  
+  * but thank-fully the coffee wo-rked\!  
+* Everyone together  
+  * do do do-do  
+  * do do do-do  
+  * do do do-do  
+  * do do do-do  
+* Person 2 verse  
+  * I don’t kno-ow what I’m doing  
+  * Singing this song sure is scary  
+  * But I’m glad that I’m here doing-it  
+  * And it’s actually kind of fu-un  
+* Repeat, until everyone has gone
+
+## Verbal Instructions
+
+1. Optional  
+   * play a bit of [the original song](https://www.youtube.com/watch?v=j4jtIDaeaWI)   
+2. Brainstorming Content  
+   * “Think of something that’s happened to you this week/month/year \- anything\!”  
+3. Singing Prep  
+   * “Sing it with me\! do do do-do…”  
+4. Facilitator sings an example verse  
+   * “I’ll sing an example \- notice it’s the same rhythm/melody\!”  
+5. Turns  
+   * “One person will share their story”  
+   * “Then we’ll all “do do do-do””  
+   * “Then the next person shares their story”
+
+## Skills Developed
+
+1. saying anything  
+2. staying on rhythm
