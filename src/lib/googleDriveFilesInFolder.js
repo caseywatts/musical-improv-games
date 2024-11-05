@@ -8,10 +8,9 @@
 import * as fs from "fs";
 const API_KEY = fs.readFileSync("./API_KEY", "utf8");
 
-const folderId = "1CO76EyTqdplnPOxifieXBQITZlLFyRX7";
-const q = `'${folderId}'+in+parents+and+trashed+=+false`;
-const fetchURL = `https://www.googleapis.com/drive/v3/files?q=${q}&key=${API_KEY}`;
-console.log(`${fetchURL}`);
-
-const results = await (await fetch(fetchURL)).json();
-console.log(results);
+export default async function googleDriveFilesInFolder(folderId) {
+  const q = `'${folderId}'+in+parents+and+trashed+=+false`;
+  const fetchURL = `https://www.googleapis.com/drive/v3/files?q=${q}&key=${API_KEY}`;
+  const results = await (await fetch(fetchURL)).json();
+  return results;
+}
