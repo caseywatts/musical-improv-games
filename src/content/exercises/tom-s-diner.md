@@ -1,18 +1,18 @@
 ---
 name: Tom's Diner
 editURL: https://docs.google.com/document/d/1g3KyEfua5sdopcY3k-4h50i1WXHkXgxfOIQDBl-cv_0/edit
-difficulty: 
-summary: 
-sayingWords: 
-newIdeas: 
-yesAnd: 
-rhyme: 
-characters: 
-plot: 
-meter: 
-pitch: 
-harmony: 
-articulation: 
+difficulty: 2 - medium
+summary: story
+sayingWords: yes
+newIdeas: yes
+yesAnd: no
+rhyme: no
+characters: no
+plot: no
+meter: yes
+pitch: no
+harmony: no
+articulation: no
 ---
 
 # Tom’s Diner \- 8-10 minutes
