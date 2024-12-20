@@ -6,7 +6,7 @@ summary: collaboration
 sayingWords: yes
 newIdeas: yes
 yesAnd: yes
-rhyme: optional
+rhyme: no
 characters: no
 plot: optional
 meter: no
