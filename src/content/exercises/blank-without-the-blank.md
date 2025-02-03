@@ -15,6 +15,9 @@ harmony:
 articulation: 
 ---
 
+Blank without the Blank
+
+Facilitator may intervene, especially in the first round, to ensure everyone understands the game.  
 It’s like the 'blank' without the 'blank'
 
 Objective:  
@@ -43,8 +46,6 @@ Person 3: It's like the "STATIC" without the "SHOCK."
 It's like the "SHEPHERD" without the "FLOCK."
 
 Notes:
-
-Facilitator may intervene, especially in the first round, to ensure everyone understands the game.
 
 Encourage players to stay in rhythm and keep the rhymes flowing.
 
