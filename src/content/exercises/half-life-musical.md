@@ -29,6 +29,8 @@ articulation: no
   * Just make sure each singer gets a fair share of the time.  
   * The two most important things to keep in mind are strong emotions and physicality. This makes things easier to remember when you repeat the scene, and they make the scenes more fun for the audience.  
   * You don’t need to literally repeat word for word, you just need to be reasonably close and keep the order of events the same.  
+  * Avoid cross-talk in the first iteration to make subsequent ones easier.  
+  * As it gets really short, use fewer words, but make them strong words.  
   * This game can also be played as 2 minutes, 1 minute, 30 seconds, 15 seconds, 7 seconds, which is usually more suitable for three singers.  
 * Video reference: [https://www.youtuber.com/watch?v=tDpEix48yH8](https://www.youtube.com/watch?v=tDpEix48yH8)  
   * This is the non-musical version of the game, we would just sing rather than talk

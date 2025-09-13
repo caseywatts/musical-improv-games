@@ -39,9 +39,14 @@ articulation: no
   * This keeps happening more and more until the last word is sung.  
   * All 3 Singers: “Todayyyyyyyyyyyyyyyyyyy\!\!” (or whatever the word is)  
 * Notes:  
+  * Make sure when you tag someone, you pick up EXACTLY where they left off; don’t repeat their word nor use a word that would be grammatically incorrect.  
+  * Allow the song to “go places” by exploring themes, emotions, and imagery.  
   * As the song progresses, tags should generally happen more often.  
   * It is also more entertaining if the later tags are more likely to happen mid-word or in the middle of a phrase, or during a long note.  
+  * Try to maintain a clear triangle shape as it will make things easier.  
+  * Wait to be tagged, do not look to be tagged, then leave immediately.  
   * Really lean into physicality as the song progresses. Make your movements quicker, sharper, and goofier.  
   * It is more impressive when rhyming occurs, but it’s not a requirement.  
+  * When ending the song, do it unambiguously. Step forward and hold your note.  
 * Video reference: [https://www.youtube.com/watch?v=427JUVFahTs](https://www.youtube.com/watch?v=427JUVFahTs)  
   * This team uses 3 people, but it can be played with 2, 3, or possibly 4 people

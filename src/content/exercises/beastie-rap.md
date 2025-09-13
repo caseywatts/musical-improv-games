@@ -74,8 +74,9 @@ Video reference: [https://www.youtube.com/watch?v=ZUZz4TJXmIQ](https://www.youtu
   * There is a little tune we can mumble during the resting measure (we can demonstrate it in person, no point in try to write it down here lol)  
   * When a team messes up, their leader goes to the back and everyone on that team rotates one position  
 * Notes:  
-  * As long as everyone who speaks on a team says the same word and the word rhymes with the original name, then the game keeps going. So if the front/leader sets up a line for their 5 team mates, and 2 of them are so confused that they stay silent but the 3 that did speak up all say the same thing, that counts as a valid turn  
-  * We can be permissive of some slight slant rhymes, but we encourage people to not make that slant too big  
+  * As long as everyone who speaks on a team says the same word and the word rhymes with the original name, then the game keeps going. So if the leader sets up a line for their 5 team mates, and 2 of them are so confused that they stay silent but the 3 that did speak up all say the same thing, that is a valid turn.  
+  * We can be permissive of some slight slant rhymes, but we encourage people to not make that slant too big.  
   * If you are the leader of your team, make sure you aren’t saying the rhyme as well  
-  * There isn’t a definite end to the game, we can cut it off whenever we feel it has gotten people loosened up and such  
+  * There isn’t a definite end to the game, we can cut it off whenever we feel it has gotten people loosened up and such.  
+  * It’s always more fun to be animated and use the mannerisms of a rapper.  
 * Video reference: [https://www.youtube.com/watch?v=bhnxjc3MN\_Y](https://www.youtube.com/watch?v=bhnxjc3MN_Y)

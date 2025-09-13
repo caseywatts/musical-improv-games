@@ -17,7 +17,7 @@ articulation: no
 
 ### Hush, Little Baby
 
-* Objective: Improvise a rhyming lullabye one line at a time based on a popular song  
+* Objective: Improvise a rhyming lullaby one line at a time based on a popular song  
 * Instructions:   
   * Everyone stands in a circle formation, one person designated to start  
   * Get a suggestion of an object from someone in the circle  
@@ -39,6 +39,6 @@ articulation: no
   * The rotation keeps going until someone holds their last note.  
 * Notes:  
   * If you want to prepare beforehand, it’s best to have the object in mind so that you know what you will rhyme with; then work backwards to figure out what word could be used to set you up for that rhyme.  
-  * If you fall out of rhythm, take your time to finish your line; others will adjust..  
+  * If you fall out of rhythm, take your time to finish your line; others will adjust.  
 * Video reference: [https://www.youtube.com/watch?v=NOCx4D7KoGo](https://www.youtube.com/watch?v=NOCx4D7KoGo)   
   * This is the song off which the game is based, just need the first 35 seconds

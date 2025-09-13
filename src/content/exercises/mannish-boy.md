@@ -56,3 +56,9 @@ In a circle:
 
 1. giving quick info  
 2. collaborative storytelling
+
+## Notes
+
+1. Always make sure to keep to the beat. It’s better to sacrifice content or other things in your line, because that is easier to “recover” from than losing the beat.  
+2. You only have to say a little bit on your turn, you don’t need to give a lot of details. The details and the stakes of the narrative will develop collectively.  
+3. If it feels like the song should end, be unambiguous when you end it. Clearly step forward, slow your tempo, increase your volume, and hold your last note.

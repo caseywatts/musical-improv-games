@@ -24,7 +24,7 @@ articulation: no
   * Producer tells singers to record a neutral track, accompanist starts playing  
   * The three singers perform the song like normal  
   * The producer says they want to try the song a different way, usually genre-wise  
-  * The accompanist starts playing, one of the three singers takes the lead  
+  * The accompanist starts playing, one of the three singers clearly takes the lead  
   * The lead sings a little of the original song, but they mostly come up with lyrics  
   * This is then repeated for the other two singers  
   * After the third recording, the producer says they’ve got all they need  
@@ -38,7 +38,9 @@ articulation: no
   * This happens two more times so that all three singers get to be the lead  
   * Producer: “Alright, that last take was golden, thank you very much”  
 * Notes:  
+  * Commitment to the producer’s suggestions is key.  
+  * Change the lyrics (a lot) when doing the re-recordings.  
   * It’s best for the final song to have the most emotion and volume.  
-  * The producer is encouraged to have a little bit of back and forth with the singers between songs.  
+  * The producer is encouraged to have a tiny bit of back and forth with the singers between songs.  
   * While a singer is leading, the other two singers stand a step or two back and provide backup dancing/vocals.  
 * Video reference: [https://www.youtube.com/watch?v=qJDWNY\_4sN4](https://www.youtube.com/watch?v=qJDWNY_4sN4)

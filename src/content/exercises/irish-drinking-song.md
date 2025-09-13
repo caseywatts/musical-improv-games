@@ -54,8 +54,9 @@ articulation: no
   * All 4 Singers: “Oooh eye dee-die dee-die dee-die dee-die dee-die dee-die, oh eye dee-die dee-die dee-die dee-die dee die dee diiiiiiiieeeeeeee”  
 * Notes:  
   * \!\!\! It’s easier to get the hang of the structure by watching the linked video \!\!\!  
-  * Staying on rhythm is pretty important in this game. If you find yourself about to stray from the beat, just make sure you say a single word (or just a syllable) at the end of the line so as to not knock the next person off beat.  
+  * Staying on rhythm is very important in this game. If you find yourself about to stray from the beat, just make sure you say a single word (or just a syllable) at the end of the line so as to not knock the next person off beat.  
   * It helps to pretend you’re holding a beer and sway your arm to the beat.  
+  * Remember you do not need to say much in your line, only about 5 or 6 words.  
   * If you are the person setting up the line that another person will rhyme with, make sure your final word is something relatively easy to rhyme with.  
 * Video reference: [https://www.youtube.com/watch?v=iUx6fFRlYnw](https://www.youtube.com/watch?v=iUx6fFRlYnw)  
   * In this instance they tell a story, this isn’t required, but it is impressive\!

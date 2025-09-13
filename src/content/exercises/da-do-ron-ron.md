@@ -46,6 +46,9 @@ articulation: no
       * Everyone:“Yeah\!”  
     * Player E:“Just like he should”  
       * Everyone:“Da doo ron ron ron, da doo ron ron.”  
+* Notes:  
+  * Remember that you don’t have to say many words, keep it simple.  
+  * If your line is the one that sets up a rhyme, make it easier on your scene partners by ending your line with a simple, rhymable word.  
 * Video reference: [https://www.youtube.com/watch?v=L0dikX80Ed8](https://www.youtube.com/watch?v=L0dikX80Ed8)  
   * This is the song that inspired this game
 
