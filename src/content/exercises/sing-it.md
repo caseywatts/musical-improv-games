@@ -1,18 +1,18 @@
 ---
 name: Sing It
 editURL: https://docs.google.com/document/d/1VIXdr-MjyZD2YAm0DzhzXEwD7MMka0QcB65e5O19EZQ/edit
-difficulty: 
-summary: 
-sayingWords: 
-newIdeas: 
-yesAnd: 
-rhyme: 
-characters: 
-plot: 
-meter: 
-pitch: 
-harmony: 
-articulation: 
+difficulty: 2 - medium
+summary: "rhyme & time"
+sayingWords: yes
+newIdeas: yes
+yesAnd: no
+rhyme: yes
+characters: no
+plot: no
+meter: no
+pitch: no
+harmony: no
+articulation: no
 ---
 
 ### Sing It\! \- 15-20 minutes
