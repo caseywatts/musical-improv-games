@@ -30,12 +30,12 @@ articulation:
   * Singer 1: “I will fix any problem on any car in any place”  
   * Singer 1: “I will crawl around in every single teeny tiny space”  
   * Singer 1: “There are no car troubles that we cannot face”  
-  * Singer 1: “Because the union makes us strong”  
+  * Every singer: “For the union makes us strong”  
   * Every singer: “Soooolidarity foreeeever, Soooolidarity foreeeever, Soooolidarity foreeeever, For the union makes us stroooong”  
   * Singer 2: “Once I’m finished with your car, I promise everything will be great”  
   * Singer 2: “I work at the finest damn repair shop in the entire state”  
   * Singer 2: “Just like a healthy juice, I’ll make sure you have a V8”  
-  * Singer 2: “For the union makes us strong”  
+  * Every singer: “For the union makes us strong”  
   * \*Keep singing chorus and then new verse until all players have gone\*  
 * Notes:  
   * People that are more comfortable with rhyming should go first.  
