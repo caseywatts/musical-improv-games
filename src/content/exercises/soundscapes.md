@@ -15,7 +15,7 @@ harmony: primary
 articulation: no
 ---
 
-### Soundscapes
+### From Baltimore Music Improv:  Soundscapes
 
 * Instructions:   
   * Everyone \- Gather in a circle. We will be creating a musical soundscape with no words allowed.  
