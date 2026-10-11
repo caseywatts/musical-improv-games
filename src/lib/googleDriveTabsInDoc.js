@@ -15,6 +15,9 @@
 // But service account can access any public document!
 // OR any private document shared with the service account
 
+// It looks like the docs/tabs API does NOT have the ability to return markdown right now
+// I would have to do custom parsing of a Google Doc to markdown, which I do not want to do - darn!
+
 import { google } from "googleapis";
 
 const auth = new google.auth.GoogleAuth({
