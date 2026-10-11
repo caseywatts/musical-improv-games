@@ -30,7 +30,14 @@ const docs = google.docs({
   auth: auth,
 });
 
-const res = await docs.documents.get({
-  documentId: "14PP-TOGFYcmsdFt4g5u0qdwOz0Fsh1nMfDpjUWo7iNY",
-});
-console.log(res.data);
+export default async function googleDriveDocWithTabs(id) {
+  const doc = await docs.documents.get({
+    documentId: id,
+    includeTabsContent: true,
+  });
+
+  console.log(doc.data.tabs[0].documentTab.documentStyle);
+  return doc;
+}
+
+googleDriveDocWithTabs("14PP-TOGFYcmsdFt4g5u0qdwOz0Fsh1nMfDpjUWo7iNY");
